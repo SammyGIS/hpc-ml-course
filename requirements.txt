@@ -17,6 +17,9 @@ numpy
 matplotlib
 pandas
 seaborn
+scikit-learn
+opencv-python
+tensorflow
 scipy
 numba
 myst-parser
